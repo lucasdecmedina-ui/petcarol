@@ -9,6 +9,7 @@ Site institucional responsivo para as unidades Ponta da Praia e Boqueirão, em S
 - Formulário que prepara uma conversa no WhatsApp, sem armazenar dados.
 - Endereços, horários, links para rotas e Instagram.
 - Menu para celular, perguntas frequentes e navegação acessível.
+- Identidade em rosa e creme, patinhas animadas, transições na rolagem e respeito à preferência de movimento reduzido.
 
 ## Executar localmente
 
@@ -24,11 +25,12 @@ Abra http://localhost:8000. Os arquivos da raiz também podem ser publicados em 
 
 - `index.html`: conteúdo e estrutura.
 - `styles.css`: identidade visual e adaptação para diferentes telas.
+- `brand.css`: personalização visual da Ana Carol e animações.
 - `app.js`: menu, escolha de unidade e mensagens do WhatsApp.
 - `assets/`: logo e imagens.
 
 ## Conteúdo
 
-Logo fornecido pelo solicitante e fotografias do site existente da Ana Carol. Endereços e contatos consultados em https://www.anacarolpet.com.br/contato.php. A referência a 2003 vem de https://anacarolpet.com.br/pet.php.
+Logo fornecido pelo solicitante e fotografias do site existente da Ana Carol. A imagem ilustrativa `assets/pets-hero.png` foi criada com geração de imagem por IA para este projeto. Endereços e contatos consultados em https://www.anacarolpet.com.br/contato.php. A referência a 2003 vem de https://anacarolpet.com.br/pet.php.
 
 As mensagens são abertas no WhatsApp; os agendamentos dependem de confirmação da equipe. Os dados comerciais podem ser atualizados em `index.html` e `app.js`.
